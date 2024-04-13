@@ -1,4 +1,4 @@
-# ab-tests
+# A/B test for an online learning product
 
 During the testing of a hypothesis, a new payment mechanism was proposed to the target group on the website, while the control group retained the basic mechanism. The task at hand is to analyze the experiment results and determine whether to launch the new payment mechanism for all users.
 
