@@ -9,4 +9,7 @@ The research aimed to address the following questions:
 - Are these differences statistically significant?
 - Should the new mechanism be launched for all users?
 
-In conclusion, it was necessary to develop a function that would retrieve additional data from the cloud, updating the metrics, and another function to visualize the differences in metrics between the test and control groups.
+Finally, it was necessary to develop a function that would retrieve additional data from the cloud, updating the metrics, and another function to visualize the differences in metrics between the test and control groups.
+
+All the assignment tasks are solved and conclusions documented within the Jupyter Notebook.
+
